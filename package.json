@@ -1,0 +1,14 @@
+{
+  "name": "arvis-register",
+  "version": "20.12.4",
+  "main": "arvis.js",
+  "scripts": {
+    "start": "node arvis.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "15.x"
+  }
+}

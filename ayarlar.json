@@ -1,0 +1,21 @@
+{
+    "prefix": ".",
+    "sahip": "384345860097441794",
+    "durum": "❤️・ArviS#0011",
+    "voiceC": "BOTUN GİRECEĞİ SES KANAL ID",
+    "tag": "TAGINIZI BURAYA GİRİN",
+    "tırnak": " | ",
+    "reg": {
+        "sohbet": "SOHBET KANALININ ID'Sİ",
+        "log-e": "ERKEK KAYIT LOG KANALININ ID'Sİ",
+        "log-k": "KIZ KAYIT LOG KANALININ ID'Sİ"
+    },
+    "userjoin": {
+        "newacc": "• Yeni Kayıtlı Hesap",
+        "oldacc": "• İsim | Yaş",
+        "unreg": "KAYITSIZ ROLÜNÜN ID'Sİ",
+        "prison": "JAIL ROLÜNÜN ID'Sİ",
+        "unregchat": "UNREGISTER CHAT KANALININ ID'Sİ",
+        "newaccchat": "YENİ HESAP LOG KANALININ ID'Sİ"
+    }
+}
